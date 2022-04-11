@@ -41,23 +41,32 @@
             };
           },
 
-          components: {
-            
-            TheHeader,
-          },
+        components: {
+          
+          TheHeader,
+        },
 
-          props: {
+        props: {
 
-          },
+        },
 
-          computed: {
 
-          },
+        ///////////////////////////////
+        // EVENTS
+        ///////////////////////////////
+
+        mounted() {
+    
+        },
 
 
         ///////////////////////////////
         // METHODS
         ///////////////////////////////
+
+        computed: {
+
+        },
 
         methods: {
 
